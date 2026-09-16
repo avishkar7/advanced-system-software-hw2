@@ -6,6 +6,5 @@ The second assignment in the bare-metal RISC-V + QEMU track that HW3–HW4 build
 on. The original handout is preserved under
 [`docs/handout.pdf`](docs/handout.pdf).
 
-> **Status — work in progress.** This repository currently holds the assignment
-> handout. I will add the source code and any accompanying documents as I
-> finalize and recover them.
+> **Status — work in progress.** `trap.s` still needs to be updated with the
+> changes made for the homework.
